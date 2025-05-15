@@ -1,0 +1,100 @@
+ * {
+  background-color: Navy;
+  font-family: 'trebuchet ms';
+  }
+
+ h1 {
+  color: navy;
+  background-color: grey;
+  text-align: center;
+  font-size: 36px;
+  font-family: 'garamond';
+  }
+
+ h2 {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  }
+
+ h3 {
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+  }
+
+ p {
+  width: 80%;
+  color: white;
+  font-size: 18px;
+  align-item: center;
+  text-align: center;
+  }
+
+ a {
+  color: white;
+  text-align: center;
+  }
+
+ img {
+  width: 37%;
+  }
+
+ .topnav {
+  width: 100%;
+  background-color: navy;
+  color: white;
+  overflow: auto;
+  font-size: 22px;
+  text-align: center;
+  word-spacing: 280px;
+  }
+
+  .topnav a {
+  width: 100%;
+  float: right;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  width: 22%;
+  text-align: center;
+  }
+
+  #image-container {
+  justify-content: space-around;
+  align-items: center;
+  }
+
+/* this is my design
+  #nav {
+  color: white;
+  background-color: grey;
+  font-size: 24px;
+  text-align: center;
+  padding-left: 193px;
+  padding-right: 193px;
+  }
+*/
+
+ #teampicture {
+  width: 80%;
+  border: red;
+  border-color: red;
+  border-width: heavy;
+  }
+
+ #camps {
+  border: 1px, solid, red;
+  padding-top: 10px;
+  {
+
+ #signup {
+  align-content: center;
+  border: 1px solid red;
+  }
+
+ #gallerypic {
+ width: 100px;
+ }
+  
