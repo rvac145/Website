@@ -52,13 +52,17 @@
 
   .topnav a {
   width: 100%;
-  float: right;
+  float: center;
   padding: 12px;
   color: white;
   text-decoration: none;
   font-size: 22px;
   width: 22%;
   text-align: center;
+  }
+
+  .topnav a:hover {
+    color: grey;
   }
 
   #image-container {
@@ -85,7 +89,6 @@
   }
 
  #camps {
-  border: 1px, solid, red;
   padding-top: 10px;
   {
 
